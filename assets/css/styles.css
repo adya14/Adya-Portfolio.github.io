@@ -462,7 +462,7 @@ img {
     text-align: initial;
   }
   .work__container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     column-gap: 2rem;
   }
 }
@@ -529,4 +529,20 @@ a {
 a,
 button {
   cursor: none;
+}
+
+.contact__link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #5f2d77; 
+}
+
+.contact__icon {
+  margin-right: 8px; /* Adjust the spacing between icon and text */
+  font-size: 20px; /* Adjust the icon size */
+}
+
+.contact__text {
+  display: inline-block;
 }
