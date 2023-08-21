@@ -330,97 +330,6 @@ img {
   color: #ff4b63;
 }
 
-/* form */
-.card {
-  width: 290px;
-  height: 574px;
-  background: #f4f6fb3a;
-  border: 1px solid white;
-  box-shadow: 10px 10px 64px 0px rgba(180, 180, 207, 0.75);
-  -webkit-box-shadow: 10px 10px 64px 0px rgba(186, 186, 202, 0.75);
-  -moz-box-shadow: 10px 10px 64px 0px rgba(208, 208, 231, 0.75);
-  border-radius: 10%;
-  margin-top: 3%;
-}
-
-.form {
-  padding: 25px;
-}
-
-.card_header {
-  display: flex;
-  align-items: center;
-}
-
-.card svg {
-  color: #7878bd;
-  margin-bottom: 20px;
-  margin-right: 5px;
-}
-
-.form_heading {
-  padding-bottom: 20px;
-  font-size: 21px;
-  color: #7878bd;
-}
-
-.field {
-  padding-bottom: 10px;
-}
-
-.input {
-  border-radius: 5px;
-  background-color: #e9e9f7;
-  padding: 5px;
-  width: 100%;
-  color: #7a7ab3;
-  border: 1px solid #dadaf7
-}
-
-.input:focus-visible {
-  outline: 1px solid #aeaed6;
-}
-
-.input::placeholder {
-  color: #bcbcdf;
-}
-
-label {
-  color: #B2BAC8;
-  font-size: 14px;
-  display: block;
-  padding-bottom: 4px;
-}
-
-button {
-  background-color: #7878bd;
-  font-size: 14px;
-  padding: 7px 12px;
-  height: auto;
-  font-weight: 500;
-  color: white;
-  border: none;
-}
-
-button:hover {
-  background-color: #5f5f9c;
-}
-
-.field {
-  margin-bottom: 10px;
-}
-
-.flex-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.button {
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
@@ -572,15 +481,15 @@ button:hover {
 }
 
 body {
-  background-color:rgb(255, 255, 255);
+  background-color:rgb(236, 225, 249);
   background-image:
-  radial-gradient(at 62% 0%, hsla(210,93%,89%,1) 0px, transparent 50%),
-  radial-gradient(at 93% 98%, hsla(175,100%,89%,1) 0px, transparent 50%),
-  radial-gradient(at 43% 47%, hsla(289,100%,97%,1) 0px, transparent 50%),
-  radial-gradient(at 15% 41%, hsla(240,100%,93%,1) 0px, transparent 50%),
-  radial-gradient(at 54% 26%, rgb(237, 221, 247) 0px, transparent 50%),
-  radial-gradient(at 78% 90%, rgb(246, 218, 218) 0px, transparent 50%),
-  radial-gradient(at 9% 26%, hsla(106,100%,90%,1) 0px, transparent 50%);
+  radial-gradient(at 6% 38%, hsla(237,100%,92%,1) 0px, transparent 50%),
+  radial-gradient(at 25% 9%, hsla(170,100%,92%,1) 0px, transparent 50%),
+  radial-gradient(at 6% 27%, hsla(162,100%,92%,1) 0px, transparent 50%),
+  radial-gradient(at 88% 31%, hsla(98,100%,92%,1) 0px, transparent 50%),
+  radial-gradient(at 3% 66%, hsla(151,100%,92%,1) 0px, transparent 50%),
+  radial-gradient(at 93% 28%, hsla(146,100%,92%,1) 0px, transparent 50%),
+  radial-gradient(at 85% 35%, rgb(253, 224, 250) 0px, transparent 50%);
 }
 
 /* Hide default cursor for the entire body */
