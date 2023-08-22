@@ -13,7 +13,7 @@ This website showcases my projects, skills, and experiences as a web developer. 
 
 ## Live Demo
 
-You can see the live version of the website [here](https://adya14.github.io/Portfolio-Blogs-website.github.io/).
+You can see the live version of the website [here](https://adya14.github.io/Portfolio-Blogs-Website.github.io/).
 
 ## Technologies Used
 
