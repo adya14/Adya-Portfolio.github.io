@@ -6,11 +6,6 @@ Welcome to my portfolio website repository! This repository contains the code an
 
 This website showcases my projects, skills, and experiences as a web developer. It provides information about me, my work, and how to get in touch with me.
 
-## Preview
-
-![Screenshot](./assets/img/ss1.png)
-![Screenshot](./assets/img/ss2.png)
-
 ## Live Demo
 
 You can see the live version of the website [here](https://adya14.github.io/Portfolio-Blogs-Website.github.io/).
